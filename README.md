@@ -1,2 +1,2 @@
-# codealpha_ToDoList
+# ToDoList
 website for To Do List
